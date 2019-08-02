@@ -1,0 +1,7 @@
+D:\F-pos-Server\System\Exe\test5.exe.config
+D:\F-pos-Server\System\Exe\test5.exe
+D:\F-pos-Server\System\Exe\test5.pdb
+C:\Users\x_phu\Desktop\CShap\test5\test5\obj\Debug\test5.csproj.CoreCompileInputs.cache
+C:\Users\x_phu\Desktop\CShap\test5\test5\obj\Debug\test5.exe
+C:\Users\x_phu\Desktop\CShap\test5\test5\obj\Debug\test5.pdb
+C:\Users\x_phu\Desktop\CShap\test5\test5\obj\Debug\test5.csprojAssemblyReference.cache
